@@ -1,4 +1,4 @@
-import random from "./getRandom"; 
+import random from "../getRandom"; 
 
 // 조건문 (If statement)
 
